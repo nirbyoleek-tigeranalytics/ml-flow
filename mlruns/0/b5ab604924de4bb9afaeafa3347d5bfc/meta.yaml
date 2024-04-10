@@ -1,0 +1,15 @@
+artifact_uri: /home/nirbyoleek/pydataberlin-2019/mlruns/0/b5ab604924de4bb9afaeafa3347d5bfc/artifacts
+end_time: 1712654149722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5ab604924de4bb9afaeafa3347d5bfc
+run_name: sedate-lamb-388
+run_uuid: b5ab604924de4bb9afaeafa3347d5bfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712654146389
+status: 3
+tags: []
+user_id: nirbyoleek

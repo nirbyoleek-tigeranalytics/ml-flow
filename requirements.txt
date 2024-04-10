@@ -1,9 +1,9 @@
 numpy
 pandas
 scikit-learn
-mlflow[extra]
+mlflow==1.30.0
 jupyter
 pipfile
-psycopg2
+psycopg2-binary
 tensorflow
 keras

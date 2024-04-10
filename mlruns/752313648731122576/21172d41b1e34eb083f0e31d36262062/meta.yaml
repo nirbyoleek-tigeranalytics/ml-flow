@@ -1,0 +1,15 @@
+artifact_uri: /home/nirbyoleek/pydataberlin-2019/mlruns/752313648731122576/21172d41b1e34eb083f0e31d36262062/artifacts
+end_time: 1712654101935
+entry_point_name: ''
+experiment_id: '752313648731122576'
+lifecycle_stage: active
+run_id: 21172d41b1e34eb083f0e31d36262062
+run_name: nervous-toad-108
+run_uuid: 21172d41b1e34eb083f0e31d36262062
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712654100947
+status: 3
+tags: []
+user_id: nirbyoleek

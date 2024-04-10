@@ -1,0 +1,15 @@
+artifact_uri: /home/nirbyoleek/pydataberlin-2019/mlruns/0/2894827f5f0c41ab8b559d1d29f0fae1/artifacts
+end_time: 1712656302096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2894827f5f0c41ab8b559d1d29f0fae1
+run_name: amazing-cub-625
+run_uuid: 2894827f5f0c41ab8b559d1d29f0fae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712656298638
+status: 3
+tags: []
+user_id: nirbyoleek

@@ -1,0 +1,15 @@
+artifact_uri: /home/nirbyoleek/pydataberlin-2019/mlruns/752313648731122576/ba8f8e3b920443e48f6a0bab9879f0fc/artifacts
+end_time: 1712654103657
+entry_point_name: ''
+experiment_id: '752313648731122576'
+lifecycle_stage: active
+run_id: ba8f8e3b920443e48f6a0bab9879f0fc
+run_name: rebellious-stoat-584
+run_uuid: ba8f8e3b920443e48f6a0bab9879f0fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712654102753
+status: 3
+tags: []
+user_id: nirbyoleek

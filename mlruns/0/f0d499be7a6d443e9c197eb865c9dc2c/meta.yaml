@@ -1,0 +1,15 @@
+artifact_uri: /home/nirbyoleek/pydataberlin-2019/mlruns/0/f0d499be7a6d443e9c197eb865c9dc2c/artifacts
+end_time: 1712655780624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0d499be7a6d443e9c197eb865c9dc2c
+run_name: colorful-pig-598
+run_uuid: f0d499be7a6d443e9c197eb865c9dc2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712655776740
+status: 3
+tags: []
+user_id: nirbyoleek
