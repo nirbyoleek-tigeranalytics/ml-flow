@@ -25,3 +25,11 @@ This Repository contains the resources for my tutorial **"Managing the end-to-en
 
 ## Setup the environment
 - install postgresql: `sudo apt-get install postgresql postgresql-contrib postgresql-server-dev-all`
+
+# MLFLow Runs
+![image](https://github.com/nirbyoleek-tigeranalytics/ml-flow/assets/162953417/84d0a7b3-765d-49af-83d3-2a4a02194da7)
+![image](https://github.com/nirbyoleek-tigeranalytics/ml-flow/assets/162953417/a008230c-403d-47ee-8cd5-928bed785046)
+![image](https://github.com/nirbyoleek-tigeranalytics/ml-flow/assets/162953417/4f7214a6-3101-4016-80f2-619fcef50eed)
+
+
+
